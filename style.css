@@ -1,0 +1,52 @@
+
+.img-of-part-2{
+    background-image: url("images/banner.png");
+    width: 1150px;
+height: 550px;
+background-repeat: no-repeat;
+mix-blend-mode: darken;
+background-color: #353434;
+}
+.height-and-weight{
+    width: 401px;
+height: 420px;
+flex-shrink: 0;
+background-color:white;
+}
+.height-and-weight-2{
+    width: 401px;
+height: 420px;
+flex-shrink: 0;
+background-color:#d7d7d7;
+}
+.icon-1{
+    font-size: 34px;
+    color: #B68C5A;
+    padding-left: 200px;
+}
+.color-of-div{
+    width: 270px;
+height: 250px;
+background-color: #cdcaca;
+}
+.icon-info{
+    font-size: 36px;
+    color: #B68C5A;
+}
+.btn-style-desing{
+    width: 520px;
+height: 72px;
+}
+.footer{
+    width: 1200px;
+height: 450px;
+background-color: black;
+padding-top: 120px;
+}
+li{
+    list-style: none;
+}
+.icon-footer{
+    font-size: 30px;
+    color: white;
+}
